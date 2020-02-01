@@ -1,4 +1,3 @@
-#Skin detection in video
 The topic of my project is skin detection in video. Skin detection is the
 process of finding skin-colored pixels and regions in an image or a video.
 When the standard RGB color space is used, skin detection can be very
